@@ -1,0 +1,44 @@
+newmtl object
+  Kd 0.2880 0.2880 0.2880
+newmtl befestigt.Bahn
+  Kd 0.1 0.1 0.1
+newmtl befestigt.Strasse_Weg
+  Kd 0.4 0.4 0.4
+newmtl befestigt.Trottoir
+  Kd 0.6 0.6 0.6
+newmtl befestigt.uebrige_befestigte
+  Kd 0.4 0.4 0.4
+newmtl befestigt.Verkehrsinsel
+  Kd 0.6 0.6 0.6
+newmtl befestigt.Wasserbecken
+  Kd 0.1 0.1 0.6
+newmtl bestockt.geschlossener_Wald
+  Kd 0.0 0.3 0.0
+newmtl bestockt.uebrige_bestockte
+  Kd 0.0 0.4 0.0
+newmtl Gebaeude
+  Kd 0.2880 0.2880 0.2880
+newmtl Gewaesser.fliessendes
+  Kd 0.1 0.1 0.6
+newmtl Gewaesser.Schilfguertel
+  Kd 0.1 0.1 0.6
+newmtl Gewaesser.stehendes
+  Kd 0.1 0.1 0.6
+newmtl humusiert.Acker_Wiese_Weide
+  Kd 0.1 0.6 0.1
+newmtl humusiert.Gartenanlage
+  Kd 0.1 0.7 0.1
+newmtl humusiert.Hoch_Flachmoor
+  Kd 0.1 0.6 0.1
+newmtl humusiert.Intensivkultur.Reben
+  Kd 0.1 0.6 0.1
+newmtl humusiert.Intensivkultur.uebrige_Intensivkultur
+  Kd 0.4 0.2 0.0
+newmtl humusiert.uebrige_humusierte
+  Kd 0.0 0.4 0.0
+newmtl vegetationslos.Abbau_Deponie
+newmtl vegetationslos.Fels
+  Kd 0.5 0.5 0.5
+newmtl vegetationslos.Geroell_Sand
+  Kd 0.8 0.8 0.0
+newmtl vegetationslos.uebrige_vegetationslose
