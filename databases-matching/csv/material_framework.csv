@@ -1,0 +1,85 @@
+﻿Abfallart,Abfallkategorie gemäss VVEA /,LVA-Codes,Genereller Entsorgungsweg,t,m^{3} (fest),m^{3} (lose)
+Ausbauasphalt,< 250 mg PAK/kg,17 03 02,,,,
+Strassenaufbruch,"Nicht gebundene Fundationsschichten und
+stabilisierte Fundations- und Tragschichten",17 01 98,,,,
+Betonabbruch,unverschmutzter Betonabbruch (U-Beton),17 01 01,,,,
+Mischabbruch,"Gemisch aus ausschliesslich mineralischen
+Bauabfällen wie Backsteine, Ziegel,
+Mauerwerk mit Verputz, Kalksandstein, Beton,
+Natursteine etc.",17 01 07,,,,
+Ziegelbruch (Dachziegel),,17 01 02,,,,
+,Gips,17 08 02,,,,
+,Gips mit organischen Anteilen (z.B. Schilfrohr),17 08 02,,,,
+,Glas (Glasbruch / Flachglas),17 02 02,,,,
+,"Altholz (Konstruktions-, Ausbau-, Restholz,
+Holzmöbel), ohne gefährliche Stoffe",17 02 97 ak,,,,
+,"Kunststoffe (sauber, sortenrein)",17 02 03,,,,
+,Metalle,"17 04 xy (je
+nach Metall)",,,,
+,"Mineralisches Dämmmaterial (Steinwolle,
+Glaswolle...), ohne Schadstoffe",17 06 04,,,,
+,"Brennbares Dämmmaterial (EPS, XPS,",17 06 04,,,,
+,"brennbare Abfälle, die nicht stofflich
+verwertbar sind",17 09 98,,,,
+,"unsortierte Bauabfälle, Bausperrgut",17 09 04 ak,,,,
+,Dachkies (unverschmutzt),17 05 06,,,,
+Ausbauasphalt,> 250 mg und <= 1000 mg PAK/kg,17 03 01 ak,,,,
+Ausbauasphalt,> 1000 mg PAK/kg,17 03 03 S,,,,
+Betonabbruch,"schwach verschmutzter Betonabbruch
+(T-Beton)",17 01 01,,,,
+Betonabbruch,"wenig verschmutzter Betonabbruch
+(B-Beton)",17 09 04 ak,,,,
+Betonabbruch,"stark verschmutzter Betonabbruch
+(E-Beton)",17 09 04 ak,,,,
+Betonabbruch,"Betonabbruch, der durch gefährliche Stoffe
+verunreinigt ist (S-Beton)",17 09 03 S,,,,
+Betonabbruch,"Betonabbruch, der PCB enthält (S-Beton)",17 09 02 S,,,,
+Asbesthaltige Abfälle,"Mineralische Abfälle mit gebundenen
+Asbestfasern (z.B. unzerstörte Materialien aus
+Asbestzement wie Dach-, Fassadenplatten
+etc.)",17 06 98,,,,
+Asbesthaltige Abfälle,"Bauabfälle mit freien oder sich freisetzenden
+Asbestfasern (z.B. abgetragener
+Fliesenkleber, Materialien mit schwach
+gebundenem Asbest etc.) und nicht-mineralische asbesthaltige Abfälle (z.B.
+Kunststoffbeläge)",17 06 05 S,,,,
+,"PCB-haltige Fugendichtungen und
+Anstriche/Beschichtungen",17 09 02 S,,,,
+,CP-haltige Fugendichtungen,17 09 03 S,,,,
+Schlacke aus Gebäuden,"Schlacke aus Gebäuden (Schüttungen in
+Holzbalkendecken, Schlackenwände,
+Schlackensteine etc.)","17 09 04 ak
+17 09 03 S",,,,
+"Teerkork und andere
+brennbare teerhaltige
+Baustoffe","PAK-haltige Korkdämmungen, Dachpappen,
+Dichtungsbahnen, Kleber, Fugendichtungen,
+Anstriche / Beschichtungen","17 03 03 S
+bzw. 17 06 03
+S (Teerkork)",,,,
+Holz mit Schadstoffen,"Problematische Holzabfälle (mit
+Holschutzmitteln behandelt oder halogen-organisch beschichtet oder mit Bleianstrich,
+z.B. Holz von Dachkonstruktionen, aus dem
+Aussenbereich, und Eisenbahnschwellen)",17 02 98 S,,,,
+"Schadstoffhaltige
+Dämmstoffe","FCKW-, HFKW- oder HFCKW-haltige
+Dämmstoffe, insb. Sandwichtplatten aus PUR
+und Phenolharzschaum, Dämmungen von
+stationären Kühlanlagen, Rohrdämmungen
+aus PUR",17 06 03 S,,,,
+"Metall mit
+schadstoffhaltigem Anstrich","PCB-, PAK- oder schwermetallhaltige
+Korrosionsschutzanstriche","17 04 07
+17 04 09 S",,,,
+Sportplatzbeläge vor 1994,"elastische Sport- und Leichtathletikbahnen
+und Kunstrasen","17 02 03
+17 02 04 S",,,,
+Dachkies (verschmutzt),"schwach verschmutzt (T-Material),",17 05 94,,,,
+Dachkies (verschmutzt),"wenig verschmutzt (B-Material),",17 05 97 ak,,,,
+Dachkies (verschmutzt),stark verschmutzt (E-Material),17 05 91 akb,,,,
+,"Heizungs-, Lüftungs-, Klima-Installationen",,,,,
+,Elektro-Installationen / Geräte,nach,,,,
+,Elektro-Installationen vor 1986: PCB-haltige,16 02 09 / 10 S,,,,
+,Elektro-Installationen vor 1986: PCB-haltige,,,,,
+,Elektro-Installationen vor 1986: PCB-haltige,,,,,
+,Weitere Materialien,,,,,
