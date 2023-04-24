@@ -1,4 +1,4 @@
-# thesis.material-inventory
+# thesis.material-inventory. Majority of the thesis was written in python in Google Colab. Repository includes both failed experiments of extracting information from raster files as well as final working Random Forest models predicting quantities of different materials from existing buildings that are at risk of demolition.
 
 tests-google-satellite-img-crawler:
 
